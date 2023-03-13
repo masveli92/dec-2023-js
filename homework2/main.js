@@ -199,3 +199,10 @@
 // //     if (coursesAndDurationArray[i].monthDuration>5) {
 // //     console.log('super');}
 // // }
+
+// let students = {
+//     st1:{name: 'Anna', age: 20},
+//     st2:{name: 'Olga', age: 25},
+//     st3:{},
+//     }
+//  як студенту 3 додати ці поля, саме з даних що приходять ззовні

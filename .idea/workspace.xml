@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39cefb9d-12f2-434d-a211-bfb2fd8997a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec-2023-js.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework2/main.js" afterDir="false" />
+    <list default="true" id="39cefb9d-12f2-434d-a211-bfb2fd8997a3" name="Changes" comment="homework2">
+      <change afterPath="$PROJECT_DIR$/additional/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/additional.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework8/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +50,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/ОКТЕН ПРОГРАМИРОВАНИЕ/2. JS/dec-2023-js/dec-2023-js.iml&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -50,12 +59,16 @@
       <recent name="D:\ОКТЕН ПРОГРАМИРОВАНИЕ\2. JS\dec-2023-js\lesson1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.additional.js">
+    <configuration name="additional.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/homework3/additional.js" working-dir="$PROJECT_DIR$/homework3">
+      <method v="2" />
+    </configuration>
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/homework2/main.js" working-dir="$PROJECT_DIR$/homework2">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.additional.js" />
         <item itemvalue="Node.js.main.js" />
       </list>
     </recent_temporary>
@@ -70,8 +83,19 @@
       <updated>1675211587671</updated>
       <workItem from="1675211589347" duration="1437000" />
       <workItem from="1675371983230" duration="3479000" />
-      <workItem from="1675378462718" duration="8537000" />
+      <workItem from="1675378462718" duration="12417000" />
+      <workItem from="1675704992343" duration="40263000" />
+      <workItem from="1676677972752" duration="50370000" />
+      <workItem from="1678557316689" duration="16445000" />
     </task>
+    <task id="LOCAL-00001" summary="homework2">
+      <created>1675388231256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675388231256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework2" />
   </component>
 </project>

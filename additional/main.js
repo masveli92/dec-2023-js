@@ -12,15 +12,15 @@
 // calculateVolumeAndArea(12.1);
 
 
-function getCoupeNumber(n) {
-if(isNaN(n) || n<0 || !Number.isInteger(n)){
-    return console.log("Ошибка. Проверьте правильность введенного номера места")
-} else if (n===0 || n>36){
-    return console.log("Таких мест в вагоне не существует")
-} else {
-    return console.log(Math.ceil(n/4));
-} }
-getCoupeNumber(36)
+// function getCoupeNumber(n) {
+// if(isNaN(n) || n<0 || !Number.isInteger(n)){
+//     return console.log("Ошибка. Проверьте правильность введенного номера места")
+// } else if (n===0 || n>36){
+//     return console.log("Таких мест в вагоне не существует")
+// } else {
+//     return console.log(Math.ceil(n/4));
+// } }
+// getCoupeNumber(36)
 
 // Создайте функцию, которая принимает в себя целое число минут и возвращает время в нужном формате строки. (Смотри пример).
 // Обратите внимание на окончание слова "час" - оно меняется в зависимости от цифры. Если вместо аргумента приходит не число,
@@ -106,5 +106,4 @@ getCoupeNumber(36)
 //     }
 //     return str;
 
-
-}
+// }
